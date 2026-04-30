@@ -1,0 +1,6 @@
+Estações selecionadas para o plot dos TTDs na Argentina em 2025:
+
+- PRN1:
+    - AUTF, BOLS, SICO, SMAN, CHIM, PBCA, GRCA
+- PRN3:
+    - RIO2, SARM, SICO, PELU, SMAN, BATE, PBCA, VBCA, MPL2, 25MA, VCOP

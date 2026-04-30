@@ -1,0 +1,3 @@
+O código que plota os TTDs para os PRNs escolhidos é o TTD_cnmVTEC_estacoes_especificas.m
+
+* Lembrando que para o funcionamento correto do programa, ele deve estar na mesma pasta que os dados de STEC (a extensão desses arquivos é .Cmn)
