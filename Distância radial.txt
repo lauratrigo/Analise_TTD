@@ -1,0 +1,132 @@
+=== DISTÂNCIA AO EPICENTRO (ordenado) ===
+  1) TOLH  ->   709.95 km
+  2) AUTF  ->   718.57 km
+  3) RIO2  ->   799.29 km
+  4) UNPA  ->  1053.61 km
+  5) ECAR  ->  1276.22 km
+  6) PDE3  ->  1406.87 km
+  7) SARM  ->  1692.31 km
+  8) RWSN  ->  1890.75 km
+  9) ESQU  ->  2024.69 km
+ 10) BOLS  ->  2131.48 km
+ 11) PATA  ->  2157.46 km
+ 12) BCH1  ->  2214.69 km
+ 13) SICO  ->  2217.91 km
+ 14) NESA  ->  2240.34 km
+ 15) PELU  ->  2300.63 km
+ 16) SMAN  ->  2323.20 km
+ 17) CHIM  ->  2356.97 km
+ 18) BATE  ->  2359.79 km
+ 19) PBCA  ->  2379.45 km
+ 20) GRCA  ->  2386.69 km
+ 21) VBCA  ->  2389.23 km
+ 22) NEQN  ->  2401.29 km
+ 23) 3ARO  ->  2426.93 km
+ 24) ZPLA  ->  2435.48 km
+ 25) PWRO  ->  2474.94 km
+ 26) LHCL  ->  2480.93 km
+ 27) MPL2  ->  2484.42 km
+ 28) BCAR  ->  2505.90 km
+ 29) 25MA  ->  2526.82 km
+ 30) SUAR  ->  2527.25 km
+ 31) VCOP  ->  2573.12 km
+ 32) RSAU  ->  2584.73 km
+ 33) AZUL  ->  2607.73 km
+ 34) SRLP  ->  2626.16 km
+ 35) LMHS  ->  2652.37 km
+ 36) DORE  ->  2670.74 km
+ 37) SAIS  ->  2688.77 km
+ 38) PEJ1  ->  2710.94 km
+ 39) SMDM  ->  2760.05 km
+ 40) MGUE  ->  2767.96 km
+ 41) GVIL  ->  2798.21 km
+ 42) CHOY  ->  2814.90 km
+ 43) LPGS  ->  2824.87 km
+ 44) AGGO  ->  2827.08 km
+ 45) MZGA  ->  2834.84 km
+ 46) IGM1  ->  2858.64 km
+ 47) UYCO  ->  2874.79 km
+ 48) MZRF  ->  2882.39 km
+ 49) RUFI  ->  2883.23 km
+ 50) PEBA  ->  2919.19 km
+ 51) MGLO  ->  2942.83 km
+ 52) VIME  ->  2963.13 km
+ 53) FMAT  ->  2972.12 km
+ 54) MZAU  ->  2988.63 km
+ 55) VCON  ->  2999.57 km
+ 56) UYSO  ->  3006.80 km
+ 57) GGUA  ->  3011.73 km
+ 58) RIO4  ->  3014.72 km
+ 59) SL01  ->  3023.48 km
+ 60) UNRO  ->  3028.76 km
+ 61) MZAE  ->  3030.04 km
+ 62) MZAR  ->  3040.27 km
+ 63) SANT  ->  3074.97 km
+ 64) MZAC  ->  3078.25 km
+ 65) LROS  ->  3081.37 km
+ 66) VIMA  ->  3089.20 km
+ 67) MZAL  ->  3094.06 km
+ 68) NOYA  ->  3095.02 km
+ 69) UYPA  ->  3114.04 km
+ 70) UYRB  ->  3128.14 km
+ 71) EPGZ  ->  3131.11 km
+ 72) GUAY  ->  3155.45 km
+ 73) PRNA  ->  3160.07 km
+ 74) CSJ1  ->  3173.79 km
+ 75) CSLO  ->  3173.79 km
+ 76) EPSF  ->  3175.30 km
+ 77) CORD  ->  3192.64 km
+ 78) MGNO  ->  3201.20 km
+ 79) UCOR  ->  3201.78 km
+ 80) CFAG  ->  3213.49 km
+ 81) UYSA  ->  3216.35 km
+ 82) RAF1  ->  3217.97 km
+ 83) UNSJ  ->  3224.07 km
+ 84) OAFA  ->  3228.13 km
+ 85) FEDE  ->  3258.26 km
+ 86) UYTD  ->  3266.93 km
+ 87) UYRI  ->  3289.90 km
+ 88) RDCM  ->  3295.35 km
+ 89) SAJA  ->  3295.60 km
+ 90) SBAL  ->  3322.47 km
+ 91) UYAR  ->  3334.43 km
+ 92) UYBU  ->  3343.11 km
+ 93) DINO  ->  3368.49 km
+ 94) RODE  ->  3377.55 km
+ 95) PACO  ->  3406.80 km
+ 96) RSAL  ->  3410.15 km
+ 97) OJOA  ->  3414.68 km
+ 98) SMAR  ->  3441.57 km
+ 99) LARJ  ->  3442.32 km
+100) RCRO  ->  3445.86 km
+101) SUR1  ->  3452.61 km
+102) RECO  ->  3455.29 km
+103) TGTA  ->  3597.79 km
+104) RSCL  ->  3602.91 km
+105) TERO  ->  3607.11 km
+106) JBAL  ->  3636.63 km
+107) CHAC  ->  3649.88 km
+108) ALUM  ->  3672.17 km
+109) EBY1  ->  3676.76 km
+110) PUMA  ->  3687.50 km
+111) JVCH  ->  3696.20 km
+112) TUCU  ->  3716.66 km
+113) TUC1  ->  3717.59 km
+114) TAVA  ->  3718.29 km
+115) SVIC  ->  3732.74 km
+116) TRN1  ->  3785.00 km
+117) FOSA  ->  3790.37 km
+118) CAEP  ->  3807.20 km
+119) TATU  ->  3823.89 km
+120) PY01  ->  3893.99 km
+121) JVCO  ->  3903.20 km
+122) ITAI  ->  3905.44 km
+123) UNSA  ->  3952.57 km
+124) STHA  ->  3971.70 km
+125) YEMA  ->  3992.71 km
+126) TILC  ->  4080.19 km
+127) TOSF  ->  4109.10 km
+128) ORAN  ->  4123.83 km
+129) ABRA  ->  4176.78 km
+130) YCBA  ->  4246.70 km
+>> 
