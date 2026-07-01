@@ -1,4 +1,4 @@
-# 🌎 Detecção de Distúrbios Ionosféricos (TTD) Associados ao Terremoto da Argentina (22/08/2025)
+# 🌎 Detecção de Distúrbios Ionosféricos (TTD) Associados a Terremotos
 
 Este repositório contém o código desenvolvido em **MATLAB** para o processamento de dados GNSS e construção de **Time-Travel Diagrams (TTDs)** utilizados na identificação de perturbações ionosféricas associadas ao terremoto ocorrido na **Argentina em 22 de agosto de 2025**.
 
