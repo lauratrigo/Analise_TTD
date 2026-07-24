@@ -183,6 +183,6 @@ onde:
 
 # 👩‍💻 Autora
 
-**Laura Trigo**
+**Laura L Trigo**
 
 Projeto desenvolvido no âmbito das pesquisas em monitoramento ionosférico utilizando dados GNSS para análise de perturbações associadas a terremotos.
